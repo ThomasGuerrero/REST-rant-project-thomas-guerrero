@@ -1,7 +1,7 @@
 const React = require('react')
 const Default = require('./default')
 
-function home() {
+function home () {
     return (
       <Default>
           <main>
